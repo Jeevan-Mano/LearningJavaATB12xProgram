@@ -7,7 +7,7 @@ public class Lab023_Byte {
         System.out.println(age);
     }
 
-    public static void main(String[] args) {
+    public static void main(int args) {
 
         byte age = 11;
         System.out.println(age);
