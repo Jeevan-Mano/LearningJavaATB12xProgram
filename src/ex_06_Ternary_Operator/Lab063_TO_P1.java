@@ -6,5 +6,6 @@ public class Lab063_TO_P1 {
         int number = -2;
         String result = number >0 ? "positive" : "negative";
         System.out.println(result);
+
     }
 }
